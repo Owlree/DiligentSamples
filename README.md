@@ -1,4 +1,4 @@
-# DiligentSamples <img src="https://github.com/DiligentGraphics/DiligentCore/blob/master/media/diligentgraphics-logo.png" height=64 align="right" valign="middle">
+# DiligentSamples - Test <img src="https://github.com/DiligentGraphics/DiligentCore/blob/master/media/diligentgraphics-logo.png" height=64 align="right" valign="middle">
 
 
 This module contains tutorials and sample applications intended to demonstrate the usage of
